@@ -1,7 +1,13 @@
 [package]
 name = "solana-bpf-logs-tracing"
+description = "An procedural macro to trace logs in Solana programs."
 version = "0.1.0"
 edition = "2021"
+homepage = "https://github.com/tuphan-dn/solana-bpf-logs-tracing"
+repository = "https://github.com/tuphan-dn/solana-bpf-logs-tracing"
+readme = "README.md"
+license = "MIT"
+keywords = ["solana", "bpf", "logs-tracing", "macro"]
 
 [lib]
 proc-macro = true
